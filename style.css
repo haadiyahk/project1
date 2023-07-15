@@ -13,6 +13,11 @@ body {
     margin: 0;
   }
   
+  .backimg{
+    background-size:cover ;
+    background-repeat: no-repeat;
+ }
+ 
   nav ul {
     list-style-type: none;
     padding: 0;
@@ -62,4 +67,4 @@ body {
     color: #fff;
     text-align: center;
     padding: 20px;
-  }    
+  }   

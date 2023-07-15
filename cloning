@@ -7,6 +7,7 @@
 <body>
   <header>
     <h1>Welcome to My Landing Page</h1>
+    <img class="backimg" src="C:\Users\Haadiyah\Downloads\billboard.jpg">
     <nav>
       <ul>
         <li><a href="#">Home</a></li>
